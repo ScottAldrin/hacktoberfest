@@ -2037,6 +2037,11 @@ Noida
 - Bio: ECE Undergraduate
 - GitHub: [Sarthak Bhagat](https://github.com/sarthak268)
 
+#### Name: [Scott Aldrin](https://github.com/ScottAldrin)
+- Place: California, US
+- Bio: FreeCodeCamp student and Unity user
+- GitHub: [Scott Aldrin](https://github.com/ScottAldrin)
+
 #### Name: [Sebastian Schreck](https://schreck.berlin)
 - Place: Berlin, Germany
 - Bio: Software Engineer
